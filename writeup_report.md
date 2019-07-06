@@ -152,6 +152,6 @@ I finally randomly shuffled the data set and put 20% of the data into a validati
 I used this training data for training the model. The validation set helped determine if the model was over or under fitting. The model never overfit, so I never reached the ideal number of epochs. I stopped training after reaching 50 epochs. I used an adam optimizer so that manually training the learning rate wasn't necessary.
 
 
-Here's a [link to my video result of the car driving autonomously on track one](./writeup_files/run.mp4)
+Here's a [link to my video result of the car driving autonomously on track one](./video.mp4)
 
-Here's a [link to my video result of the car driving autonomously on track two](./writeup_files/crun.mp4)
+Here's a [link to my video result of the car driving autonomously on track two](./cvideo.mp4)
